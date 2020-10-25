@@ -33,6 +33,15 @@
   ![gitpush](poto/cekemail.png) <br>
   - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa). <br>
   ![gitpush](poto/tutor.png) <br>
+
+  # SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
+
+
+### CARA MEMBUAT REPOSITORY PADA GITHUB
+
+  - Bukalah profile kalian, kemudia pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
+  - Setelahnya kamu dapat pergi pada tulisan *'New Repository'* <br>
+  ![gitpush](poto/repository.png) <br>
   
   
  
