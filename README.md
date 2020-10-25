@@ -2,7 +2,9 @@
 ### KELAS : TI.20.A.1
 ### NIM : 312010443
 
-### LANGKAH AWAL MENGGUNAKAN GIT
+
+
+## LANGKAH AWAL MENGGUNAKAN GIT
 
 * ### CARA MENDOWNLOAD GIT
    - Hal pertama yang perlu kita lakukan jika ingin menggunakan aplikasi git tentu saja yaitu mendownloadnnya. Bagaimana caranya? Pertama kalian bukalah situs resmi dari git itu sendiri yaitu *git-scm.com*. <br>
@@ -23,6 +25,11 @@
 * ### LOGIN AKUN GITHUB
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun. 
   ![gitpush](poto/signup.png) <br>
+   - Kemudian, isilah data & email kalian dengan benar. <br>
+  ![gitpush](poto/daftar.png) <br>
+  
+
+  
 
 
 
