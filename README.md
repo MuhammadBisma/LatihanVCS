@@ -27,7 +27,10 @@
   ![gitpush](poto/signup.png) <br>
    - Kemudian, isilah data & email kalian dengan benar. <br>
   ![gitpush](poto/daftar.png) <br>
-  
+   - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*. <br>
+  ![gitpush](poto/selesaidaftar.png) <br>
+   
+
 
   
 
