@@ -60,6 +60,10 @@
 
   - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy. <br>
   ![gitpush](poto/link.png) <br>
+   - Setelah Link URL git kita sudah tercopy. Selanjutnya, silahkan buka File Explorer pada Windows kalian. Kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. <br>
+  
+  - Kemudian kalian Klik Kanan, dan tekan pada kolom *'Git Bash Here'*. <br>
+  ![gitpush](poto/gitbash.png) <br>
   
  
  
