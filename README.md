@@ -47,8 +47,9 @@
    - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan. <br>
    - Setelah itu arahkan kursor pada bagian *'Create Repository'* <br>
   ![gitpush](poto/readme.png) <br>
+  - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya. <br>
+  ![gitpush](poto/code.png) <br>
   
-
   
  
 
