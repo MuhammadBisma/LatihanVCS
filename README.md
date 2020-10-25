@@ -29,7 +29,10 @@
   ![gitpush](poto/daftar.png) <br>
    - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*. <br>
   ![gitpush](poto/selesaidaftar.png) <br>
-   
+  - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi. <br>
+  ![gitpush](poto/cekemail.png) <br>
+  
+ 
 
 
   
