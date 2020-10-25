@@ -15,7 +15,8 @@
    ![gitpush](poto/gitversion.png) <br>
    - Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email kita pada git dengan mengetikan syntax:
     *'git config --global user.name "Nama Anda"'  'git config --global user.email "Email Anda"'*. Seperti pada gambar dibawah.
-
+   ![gitpush](poto/gitconfig.png) <br>
+   
 
   
 
