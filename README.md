@@ -11,4 +11,6 @@
    ![gitpush](poto/downloadgit.png) <br>
     - Setelah installasi terbuka, kalian bisa langsung membuka software *gitbash* pada menu windows kalian dan melakukan pengecekan versi dari git kalian dengan mengetikan syntax: *git --version*
     - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall.
-  ![gitpush](poto/gitversion.png) <br>
+   ![gitpush](poto/gitversion.png) <br>
+   
+
