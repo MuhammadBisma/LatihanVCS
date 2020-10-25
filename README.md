@@ -71,6 +71,9 @@
   - Setelahnya kita akan masuk kedalam folder *LatihanVCS* seperti gambar dibawah ini. Kalian bisa mengedit file README.md kalian yang ada pada File Explorer dengan menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code) sesuai dengan keinginan kalian. Tapi jika disini saya menggunakan visual studio code untuk mengeditnya. <br>
    - Setelah selesai mengedit jangan lupa untuk menyimpannya dengan cara menekan tombol file yang berada dipojok kiri  atas dan pilihlah kolom save. <br>
   ![gitpush](poto/save.png) <br>
+   - Setelah sudah dapat dipastikan benar-benar tersimpan. Langkah selanjutnya adalah membuka kembali App Gitbash dan mengetikan syntax: *'git add .'* <br>
+  ![gitpush](poto/gitadd.png) <br>
+   
    
  
  
